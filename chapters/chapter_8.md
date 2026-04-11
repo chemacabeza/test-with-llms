@@ -1,5 +1,10 @@
 # Chapter 8: The Art of Asking
 
+
+---
+[⬅️ Previous](chapter_7.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_9.md)
+
+
 <p align="center">
   <img src="../images/ch8.png" alt="Chapter 8 Infographic" width="80%">
 </p>
@@ -77,3 +82,7 @@ Every time you type *"Where is my order?"*, the AI receives that massive invisib
 *   **Creating Custom GPT with OpenAI GPT Builder** (Noelle Russell, 2024) - *Section on Crafting System Identities*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 7: In-Context Learning and Prompting*.
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Temperature and Sampling*.
+
+
+---
+[⬅️ Previous](chapter_7.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_9.md)

@@ -1,5 +1,10 @@
 # Chapter 17: Making It Fast
 
+
+---
+[⬅️ Previous](chapter_16.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_18.md)
+
+
 <p align="center">
   <img src="../images/ch17.png" alt="Chapter 17 Infographic" width="80%">
 </p>
@@ -70,3 +75,7 @@ Your smartphone doesn't have the cooling or the RAM of a massive server farm. Ap
 *   **LLM Engineer’s Handbook** (Paul Iusztin & Maxime Labonne, 2024) - *Section on Model Compression (Quantization & Distillation)*.
 *   **Build a Large Language Model (From Scratch)** (Sebastian Raschka, 2024) - *Appendix: Making Models Run Faster*.
 *   **Learning LangChain** (Mayo Oshin, 2024) - *Section on Streaming and Low-Latency Architectures*.
+
+
+---
+[⬅️ Previous](chapter_16.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_18.md)

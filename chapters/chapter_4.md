@@ -1,5 +1,10 @@
 # Chapter 4: Building a Brain
 
+
+---
+[⬅️ Previous](chapter_3.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_5.md)
+
+
 <p align="center">
   <img src="../images/ch4.png" alt="Chapter 4 Infographic" width="80%">
 </p>
@@ -72,3 +77,7 @@ The industry discovered that if you simply build a **taller skyscraper** (more l
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 5: Transformer Architecture Deep Dive*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 3: The Architecture of Scale*.
 *   **LLMs in Production** (Brousseau & Sharp, 2024) - *Section on Model Architecture and Hosting*.
+
+
+---
+[⬅️ Previous](chapter_3.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_5.md)

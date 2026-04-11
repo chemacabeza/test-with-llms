@@ -1,5 +1,10 @@
 # Chapter 18: Is It Any Good?
 
+
+---
+[⬅️ Previous](chapter_17.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_19.md)
+
+
 <p align="center">
   <img src="../images/ch18.png" alt="Chapter 18 Infographic" width="80%">
 </p>
@@ -71,3 +76,7 @@ This is a global "Blind Taste Test." Users are shown two different AI answers to
 *   **LLMs in Production** (Christopher Brousseau & Matthew Sharp, 2024) - *Chapter 4: Testing and Validating LLMs*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 8: Metrics and Benchmarks*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Section on LLM-as-a-Judge and Retrieval Evals*.
+
+
+---
+[⬅️ Previous](chapter_17.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_19.md)

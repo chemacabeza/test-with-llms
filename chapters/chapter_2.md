@@ -1,5 +1,10 @@
 # Chapter 2: Speaking in Numbers
 
+
+---
+[⬅️ Previous](chapter_1.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_3.md)
+
+
 <p align="center">
   <img src="../images/ch2.png" alt="Chapter 2 Infographic" width="80%">
 </p>
@@ -83,3 +88,7 @@ If you search for *"movies about space explorers getting lost,"* the search engi
 *   **Build a Large Language Model (From Scratch)** (Sebastian Raschka, 2024) - *Chapter 2: Working with Text Data*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 2: Word Embeddings*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024 - *Section on Vector Databases and Ingestion*.
+
+
+---
+[⬅️ Previous](chapter_1.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_3.md)

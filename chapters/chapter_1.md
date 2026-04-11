@@ -1,5 +1,10 @@
 # Chapter 1: The Magic of Prediction
 
+
+---
+[🏠 Home](../README.md) | [Next ➡️](chapter_2.md)
+
+
 <p align="center">
   <img src="../images/ch1.png" alt="Chapter 1 Infographic" width="80%">
 </p>
@@ -82,3 +87,7 @@ Your phone's model is trained only on your personal typing history. If you type 
 *   **Build a Large Language Model (From Scratch)** (Sebastian Raschka, 2024) - *Chapter 1: Understanding LLM Architecture*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 1: Paradigms of Large Language Models*.
 *   **LLMs in Production** (Brousseau & Sharp, 2024) - *Chapter on Inference and Scaling*.
+
+
+---
+[🏠 Home](../README.md) | [Next ➡️](chapter_2.md)

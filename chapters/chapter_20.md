@@ -1,5 +1,10 @@
 # Chapter 20: What's Next?
 
+
+---
+[⬅️ Previous](chapter_19.md) | [🏠 Home](../README.md)
+
+
 <p align="center">
   <img src="../images/ch20.png" alt="Chapter 20 Infographic" width="80%">
 </p>
@@ -70,3 +75,7 @@ You have just completed the LLM Mastery Course. You now understand the plumbing,
 *   **LLMs in Production** (Christopher Brousseau & Matthew Sharp, 2024) - *Chapter 7: The Future of Generative AI in Enterprise*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 12: Multimodality and Native Vision*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Afterword: Scaling Laws and the Final Frontier*.
+
+
+---
+[⬅️ Previous](chapter_19.md) | [🏠 Home](../README.md)

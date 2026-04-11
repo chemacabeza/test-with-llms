@@ -1,5 +1,10 @@
 # Chapter 5: The Training Ground
 
+
+---
+[⬅️ Previous](chapter_4.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_6.md)
+
+
 <p align="center">
   <img src="../images/ch5.png" alt="Chapter 5 Infographic" width="80%">
 </p>
@@ -75,3 +80,7 @@ This is why only a few companies on Earth can build "Base Models." However, once
 *   **LLMs in Production** (Brousseau & Sharp, 2024) - *Chapter 2: Training and Fine-tuning Infrastructure*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Section on Gradient Descent and Calibration*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Overview of Training Pipelines*.
+
+
+---
+[⬅️ Previous](chapter_4.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_6.md)

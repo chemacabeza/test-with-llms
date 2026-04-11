@@ -1,5 +1,10 @@
 # Chapter 7: Learning From Humans
 
+
+---
+[⬅️ Previous](chapter_6.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_8.md)
+
+
 <p align="center">
   <img src="../images/ch7.png" alt="Chapter 7 Infographic" width="80%">
 </p>
@@ -69,3 +74,7 @@ OpenAI then applied a massive, multi-million dollar RLHF campaign to create **In
 *   **LLM Engineer’s Handbook** (Paul Iusztin & Maxime Labonne, 2024) - *Chapter 5: Alignment and Preferences (DPO) Deep Dive*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 7: The Human in the Loop*.
 *   **LLMs in Production** (Brousseau & Sharp, 2024) - *Section on Model Governance and Safety*.
+
+
+---
+[⬅️ Previous](chapter_6.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_8.md)

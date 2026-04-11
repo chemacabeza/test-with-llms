@@ -1,5 +1,10 @@
 # Chapter 16: The LLM Factory
 
+
+---
+[⬅️ Previous](chapter_15.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_17.md)
+
+
 <p align="center">
   <img src="../images/ch16.png" alt="Chapter 16 Infographic" width="80%">
 </p>
@@ -74,3 +79,7 @@ ChatGPT grew to 100 million users faster than any app in history. Behind the sim
 *   **LLM Engineer’s Handbook** (Paul Iusztin & Maxime Labonne, 2024) - *Chapter 6: Building an Automated Fine-Tuning Pipeline (LLMOps)*.
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Scalable Inference and Serving*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Section on Bias Detection and Data Drift*.
+
+
+---
+[⬅️ Previous](chapter_15.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_17.md)

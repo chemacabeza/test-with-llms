@@ -1,5 +1,10 @@
 # Chapter 6: Teaching Old Models New Tricks
 
+
+---
+[⬅️ Previous](chapter_5.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_7.md)
+
+
 <p align="center">
   <img src="../images/ch6.png" alt="Chapter 6 Infographic" width="80%">
 </p>
@@ -73,3 +78,7 @@ Instead, they take an open-source model like Llama-3 and collect 500 historic, p
 *   **LLM Engineer’s Handbook** (Paul Iusztin & Maxime Labonne, 2024) - *Chapter 4: Advanced Fine-Tuning Strategies (LoRA & QLoRA)*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Section on Adapters and PEFT*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 6: Adapting the Model*.
+
+
+---
+[⬅️ Previous](chapter_5.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_7.md)

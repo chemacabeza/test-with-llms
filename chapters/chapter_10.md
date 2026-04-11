@@ -1,5 +1,10 @@
 # Chapter 10: Giving LLMs a Library Card
 
+
+---
+[⬅️ Previous](chapter_9.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_11.md)
+
+
 <p align="center">
   <img src="../images/ch10.png" alt="Chapter 10 Infographic" width="80%">
 </p>
@@ -74,3 +79,7 @@ If you go to a major bank's website and talk to their AI assistant about your sp
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Preventing Hallucination through Retrieval*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 8: Retrieval and Vector Databases*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 10: External Knowledge Integration*.
+
+
+---
+[⬅️ Previous](chapter_9.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_11.md)

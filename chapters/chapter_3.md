@@ -1,5 +1,10 @@
 # Chapter 3: The Attention Revolution
 
+
+---
+[⬅️ Previous](chapter_2.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_4.md)
+
+
 <p align="center">
   <img src="../images/ch3.png" alt="Chapter 3 Infographic" width="80%">
 </p>
@@ -76,3 +81,7 @@ In gendered languages like French or Spanish, the translation of a word often de
 *   **Build a Large Language Model (From Scratch)** (Sebastian Raschka, 2024) - *Chapter 3: Coding Attention Mechanisms*.
 *   **LLMs in Production** (Brousseau & Sharp, 2024) - *Section on Transformer Evolution*.
 *   **Large Language Models** (Stephan Raaijmakers, 2024) - *Chapter on The Attention Pattern*.
+
+
+---
+[⬅️ Previous](chapter_2.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_4.md)

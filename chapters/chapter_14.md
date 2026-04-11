@@ -1,5 +1,10 @@
 # Chapter 14: Chat With Your Documents
 
+
+---
+[⬅️ Previous](chapter_13.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_15.md)
+
+
 <p align="center">
   <img src="../images/ch14.png" alt="Chapter 14 Infographic" width="80%">
 </p>
@@ -73,3 +78,7 @@ When you ask Notion: *"What did the team decide about the launch date?"*, Notion
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Advanced Chunking and Overlap Strategies*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin & Maxime Labonne, 2024) - *Chapter 1: The RAG Pattern Architecture*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 8: Building a Retrieval System*.
+
+
+---
+[⬅️ Previous](chapter_13.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_15.md)

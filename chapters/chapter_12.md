@@ -1,5 +1,10 @@
 # Chapter 12: Smart Assistants
 
+
+---
+[⬅️ Previous](chapter_11.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_13.md)
+
+
 <p align="center">
   <img src="../images/ch12.png" alt="Chapter 12 Infographic" width="80%">
 </p>
@@ -80,3 +85,7 @@ Devin continues this loop until the tests pass. It is an autonomous employee, no
 *   **Creating Custom GPT with OpenAI GPT Builder** (Noelle Russell, 2024) - *Section on Tool Integration and API Actions*.
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Chapter on ReAct and Agentic workflows*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Section on Model-as-a-Controller patterns*.
+
+
+---
+[⬅️ Previous](chapter_11.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_13.md)

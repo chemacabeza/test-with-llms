@@ -1,5 +1,10 @@
 # Chapter 15: The LLM Twin
 
+
+---
+[⬅️ Previous](chapter_14.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_16.md)
+
+
 <p align="center">
   <img src="../images/ch15.png" alt="Chapter 15 Infographic" width="80%">
 </p>
@@ -71,3 +76,7 @@ Top-tier influencers and "solopreneurs" are already building Twins to handle the
 *   **Build a Large Language Model (From Scratch)** (Sebastian Raschka, 2024) - *Section on Specialized Dataset Curation*.
 *   **Creating Custom GPT with OpenAI GPT Builder** (Noelle Russell, 2024) - *Chapter on Creating Personalized Knowledge Bases*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Section on Adapting Models to Personal Contexts*.
+
+
+---
+[⬅️ Previous](chapter_14.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_16.md)

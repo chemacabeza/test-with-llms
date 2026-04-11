@@ -1,5 +1,10 @@
 # Chapter 19: The Guardrails
 
+
+---
+[⬅️ Previous](chapter_18.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_20.md)
+
+
 <p align="center">
   <img src="../images/ch19.png" alt="Chapter 19 Infographic" width="80%">
 </p>
@@ -74,3 +79,7 @@ If you ask the bank's AI: *"What is the password to my neighbor's account?"*, th
 *   **Creating Custom GPT with OpenAI GPT Builder** (Noelle Russell, 2024) - *Chapter on Ethical AI and User Protections*.
 *   **LLMs in Production** (Christopher Brousseau & Matthew Sharp, 2024) - *Chapter 5: Governance and Compliance for LLMs*.
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Prompt Injection and Adversarial Attacks*.
+
+
+---
+[⬅️ Previous](chapter_18.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_20.md)

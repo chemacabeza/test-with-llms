@@ -1,5 +1,10 @@
 # Chapter 9: Thinking Step by Step
 
+
+---
+[⬅️ Previous](chapter_8.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_10.md)
+
+
 <p align="center">
   <img src="../images/ch9.png" alt="Chapter 9 Infographic" width="80%">
 </p>
@@ -73,3 +78,7 @@ During this time, the model is generating thousands of invisible "hidden" reason
 *   **Building LLMs for Production** (Louis-François Bouchard, 2024) - *Section on Advanced Reasoning and Self-Consistency*.
 *   **Large Language Models: A Deep Dive** (Stephan Raaijmakers, 2024) - *Chapter 9: Reasoning and Common Sense*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Section on Building Reliable Logic Pipelines*.
+
+
+---
+[⬅️ Previous](chapter_8.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_10.md)

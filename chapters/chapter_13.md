@@ -1,5 +1,10 @@
 # Chapter 13: Conversations That Remember
 
+
+---
+[⬅️ Previous](chapter_12.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_14.md)
+
+
 <p align="center">
   <img src="../images/ch13.png" alt="Chapter 13 Infographic" width="80%">
 </p>
@@ -75,3 +80,7 @@ OpenAI isn't keeping a "personalized" version of the GPT-4 model running just fo
 *   **LangChain Crash Course** (Lim, Greg, 2024) - *Section on Buffer and Summary Memory Types*.
 *   **Hands-On Large Language Models** (Jay Alammar, 2024) - *Chapter 7: Managing Long Contexts*.
 *   **LLM Engineer’s Handbook** (Paul Iusztin, 2024) - *Section on State Management in Production*.
+
+
+---
+[⬅️ Previous](chapter_12.md) | [🏠 Home](../README.md) | [Next ➡️](chapter_14.md)
