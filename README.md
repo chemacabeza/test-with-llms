@@ -32,6 +32,16 @@ Welcome to the **LLM Mastery Course**, a comprehensive, 20-chapter deep dive int
 | 18 | [Is It Any Good?](chapters/chapter_18.md) | Evaluation & Benchmarks |
 | 19 | [The Guardrails](chapters/chapter_19.md) | AI Security & Safety |
 | 20 | [What's Next?](chapters/chapter_20.md) | AGI & Multimodality |
+| 21 | [The Computation Behind Language](chapters/chapter_21.md) | Math Foundations |
+| 22 | [The Transformer Blueprint](chapters/chapter_22.md) | Architecture Deep Dive |
+| 23 | [Advanced Prompt Patterns](chapters/chapter_23.md) | Few-Shot & CoT |
+| 24 | [Structured Outputs & Function Calling](chapters/chapter_24.md) | Tool Use & JSON |
+| 25 | [Transfer Learning & Model Adaptation](chapters/chapter_25.md) | LoRA & Adapters |
+| 26 | [Data Preparation & Curation](chapters/chapter_26.md) | Cleaning & Deduplication |
+| 27 | [The LLM API Bridge](chapters/chapter_27.md) | Integration & Architecture |
+| 28 | [Beyond Text: Multimodal AI](chapters/chapter_28.md) | Vision & Audio Fusion |
+| 29 | [LLMOps: From Lab to Launch](chapters/chapter_29.md) | Deployment & Monitoring |
+| 30 | [Local-First AI](chapters/chapter_30.md) | Privacy & Edge Inference |
 
 ---
 
