@@ -4,7 +4,7 @@
   <img src="images/hero.png" alt="LLM Mastery Hero" width="100%">
 </p>
 
-Welcome to the **LLM Mastery Course**, a comprehensive, 20-chapter deep dive into the world of Large Language Models. This course is designed using the **Richard Feynman Technique**—bridging intuitive metaphors with rigorous technical engineering to ensure you don't just "use" AI, but truly master it.
+Welcome to the **LLM Mastery Course**, a comprehensive, 34-chapter deep dive into the world of Large Language Models. This course is designed using the **Richard Feynman Technique**—bridging intuitive metaphors with rigorous technical engineering to ensure you don't just "use" AI, but truly master it.
 
 ---
 
@@ -42,6 +42,10 @@ Welcome to the **LLM Mastery Course**, a comprehensive, 20-chapter deep dive int
 | 28 | [Beyond Text: Multimodal AI](chapters/chapter_28.md) | Vision & Audio Fusion |
 | 29 | [LLMOps: From Lab to Launch](chapters/chapter_29.md) | Deployment & Monitoring |
 | 30 | [Local-First AI](chapters/chapter_30.md) | Privacy & Edge Inference |
+| 31 | [AI Agents: The Autonomous Revolution](chapters/chapter_31.md) | Planning & Tool Use |
+| 32 | [Multi-Agent Systems: Digital Collaboration](chapters/chapter_32.md) | Orchestration & MAS |
+| 33 | [Co-Intelligence: The Partnership Era](chapters/chapter_33.md) | Human-AI Partnership |
+| 34 | [The Common Sense Gap: The Path to Robust AI](chapters/chapter_34.md) | Trust & Deep Understanding |
 
 ---
 

@@ -1,7 +1,7 @@
 # Chapter 30: Local-First AI
 
 ---
-[⬅️ Previous](chapter_29.md) | [🏠 Home](../README.md)
+[← Previous: Chapter 29](./chapter_29.md) | [Next: Chapter 31 →](./chapter_31.md)
 
 
 <p align="center">
@@ -66,4 +66,4 @@ Local AI is becoming the standard for **Legal and Medical** consulting. A lawyer
 
 
 ---
-[⬅️ Previous](chapter_29.md) | [🏠 Home](../README.md)
+[← Previous: Chapter 29](./chapter_29.md) | [Next: Chapter 31 →](./chapter_31.md)
