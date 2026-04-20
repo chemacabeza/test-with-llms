@@ -4,7 +4,7 @@
   <img src="images/hero.png" alt="LLM Mastery Hero" width="100%">
 </p>
 
-Welcome to the **LLM Mastery Course**, a comprehensive, 34-chapter deep dive into the world of Large Language Models. This course is designed using the **Richard Feynman Technique**—bridging intuitive metaphors with rigorous technical engineering to ensure you don't just "use" AI, but truly master it.
+Welcome to the **LLM Mastery Course**, a comprehensive, 38-chapter deep dive into the world of Large Language Models. This course is designed using the **Richard Feynman Technique**—bridging intuitive metaphors with rigorous technical engineering to ensure you don't just "use" AI, but truly master it.
 
 ---
 
