@@ -67,4 +67,4 @@ As we move toward the final chapters of this course, remember: The goal isn't ju
 
 ---
 
-[← Previous: Chapter 33](./chapter_33.md) | [Home: README](../README.md)
+[← Previous: Chapter 33](./chapter_33.md) | [Home: README](../README.md) | [Next: Chapter 35 →](./chapter_35.md)

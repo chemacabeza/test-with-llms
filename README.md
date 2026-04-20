@@ -46,6 +46,10 @@ Welcome to the **LLM Mastery Course**, a comprehensive, 34-chapter deep dive int
 | 32 | [Multi-Agent Systems: Digital Collaboration](chapters/chapter_32.md) | Orchestration & MAS |
 | 33 | [Co-Intelligence: The Partnership Era](chapters/chapter_33.md) | Human-AI Partnership |
 | 34 | [The Common Sense Gap: The Path to Robust AI](chapters/chapter_34.md) | Trust & Deep Understanding |
+| 35 | [The AI Lifecycle: Engineering the Foundation Model](chapters/chapter_35.md) | Pipeline Engineering |
+| 36 | [The LLM Engineer's Blueprint: From Data to RLHF](chapters/chapter_36.md) | Training Architecture |
+| 37 | [Building the Brain: Architecting Transformers from Scratch](chapters/chapter_37.md) | Architecture Foundations |
+| 38 | [The Secure Frontier: Guarding the Gateways of Intelligence](chapters/chapter_38.md) | LLM Security |
 
 ---
 
